@@ -1,0 +1,15 @@
+# Created by .ignore support plugin (hsz.mobi)
+### U-pycharm&win template
+# pycharm
+.idea/
+
+# Windows Installer files
+*.cab
+*.msi
+*.msix
+*.msm
+*.msp
+
+# Windows shortcuts
+*.lnk
+
